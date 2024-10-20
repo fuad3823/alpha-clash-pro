@@ -3,3 +3,15 @@
 .font-poppins{
     font-family: "Poppins", sans-serif;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital@0;1&display=swap');
+
+.font-anton{
+    font-family: "Anton", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,500;1,500&display=swap');
+
+.font-inter{
+    font-family: "Inter", sans-serif;
+}
